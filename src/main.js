@@ -356,7 +356,7 @@ renderProjects();
 // =============================================
 // Active Nav Section Highlighting
 // =============================================
-const NAV_SECTIONS = ['about', 'experience', 'projects', 'skills', 'contact'];
+const NAV_SECTIONS = ['about', 'projects', 'experience', 'skills', 'contact'];
 const navLinks = document.querySelectorAll('.nav-link');
 
 function setActiveNav(sectionId) {
